@@ -27,8 +27,8 @@
 - BMI 계산 수치를 기록하기위한 DB
 ### 2) JAVA GUI 
 - 건강관리 프로그램 사용자 인터페이스
-### 3) MYSQLCONNECTOR
-- JAVA와 DB를 결합시키기 위한 커넥터
+### 3) JDBC
+- JAVA와 MYSQL DB를 결합시키기 위한 커넥터(MYSQLCONNECTOR)
 
 ## 7. 프로젝트 결과
 ![캡처6](https://user-images.githubusercontent.com/58617250/75090345-50b18f00-55a5-11ea-84f2-6591dc723f8d.PNG)
